@@ -1,0 +1,6 @@
+Skills: OS operations, file handling, patterns
+# What it does:
+- Auto-sort files by type (Images, Documents, Videos)
+- Create organized folder structure
+- Handle duplicates
+- Log operations
